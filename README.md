@@ -15,6 +15,8 @@ In the Scene Panel, right-click on the Enemy_Container node and Add Child Node. 
 
 As children of the Bat node, add AnimatedSprite, CollisionShape2D, and RayCast2D nodes.
 
+Select the RayCast2D node. In the Inspector panel, make sure Enabled is checked.
+
 Select the AnimatedSprite. In the Inspector Panel, select Frames->New SpriteFrames. Then select Frames again, and choose Edit.
 
 The Animate Frames panel should appear at the bottom of the window. Editing the default animation, press the Sprite Sheet icon and choose res://Assets/bat.png. All three of the images should be included in the default animation.
