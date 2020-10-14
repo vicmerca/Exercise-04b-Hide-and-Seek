@@ -19,7 +19,7 @@ Select the RayCast2D node. In the Inspector panel, make sure Enabled is checked.
 
 Select the AnimatedSprite. In the Inspector Panel, select Frames->New SpriteFrames. Then select Frames again, and choose Edit.
 
-The Animate Frames panel should appear at the bottom of the window. Editing the default animation, press the Sprite Sheet icon and choose res://Assets/bat.png. All three of the images should be included in the default animation.
+The Animate Frames panel should appear at the bottom of the window. Editing the default animation, press the Sprite Sheet icon and choose res://Assets/bat.png. All three of the images should be included in the default animation. In the Inspector panel, make sure Playing is checked.
 
 In the Scene panel, select the Bat's CollisionShape2D. Create a CircleShape2D collision shape with a radius of 10.
 
